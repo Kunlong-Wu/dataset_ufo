@@ -1,2 +1,3 @@
-# dataset_ufo
-Data on UFO sightings in different areas.
+# dataset_ufo/Code
+
+Web scraping code used to create the dataset.
